@@ -189,7 +189,8 @@ a.icon-link {
 .coder-img-container {
     align-items: center;
     padding-top: 12px;
-    height: 100%;
+    width: 700px;
+    height: 352px;
 }
 
 .coder-img {
